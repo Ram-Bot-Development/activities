@@ -6,7 +6,7 @@
   "description": "The Ram dashboard and Ram Activities.",
   "version": "1.0.0",
   "authors": [{ "name": "Ram Bot" }],
-  "icon": "https://cdn.discordapp.com/avatars/564579659526832178/690c2331528b8318a804aecca7d1dbb3.png",
+  "icon": "https://rambot.xyz/ram-api-images/ram/ram-icon.png",
   "discordClientId": "564579659526832178",
   "matches": [
     "https://rambot.xyz/*",

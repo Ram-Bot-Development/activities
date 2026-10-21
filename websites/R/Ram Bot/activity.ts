@@ -11,7 +11,7 @@ const ORIGIN = "https://rambot.xyz";
 const ACTIVITIES = `${ORIGIN}/activity/`;
 const NAME = "Ram Bot";
 const ICON =
-  "https://cdn.discordapp.com/avatars/564579659526832178/690c2331528b8318a804aecca7d1dbb3.png";
+  "https://rambot.xyz/ram-api-images/ram/ram-icon.png";
 
 const ACTIVITY_SUFFIX = /\s+[—–-]\s+Ram Activities$/i;
 const DASHBOARD_SUFFIX = /\s+[—–-]\s+Ram Dashboard$/i;
